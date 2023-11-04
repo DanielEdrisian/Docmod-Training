@@ -1,0 +1,3 @@
+1. Set the gitbook api key
+2. Set the intercom api key
+3. Deploy index.js cloud functions to firebase
